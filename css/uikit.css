@@ -1991,7 +1991,7 @@ select.uk-form-width-xsmall {
   color: #ededed;
   border: 1px solid transparent;
   border-radius: 5px;
-  margin: 1em;
+  margin: 8px 8px 8px 0;
 }
 /* Hover */
 .uk-button-secondary:hover {
