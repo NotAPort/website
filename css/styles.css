@@ -1,0 +1,13 @@
+html{
+    font-family: IBM Plex Mono;
+}
+
+
+@media (max-width: 639px) {
+  .uk-margin-xlarge-left {
+    margin-left: 15px !important;
+  }
+  .uk-margin-xlarge-right {
+    margin-right: 15px !important;
+  }
+}
